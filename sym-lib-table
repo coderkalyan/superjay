@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_SiliconLabs_Extra")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/MCU_SiliconLabs_Extra.kicad_sym")(options "")(descr ""))
+)
